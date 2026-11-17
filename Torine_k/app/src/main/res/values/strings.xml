@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Torine</string>
+    <!-- <string name="headline"><br/>Hvor fergene er nå</string> -->
+    <string name="refresh">Hent</string>
+    <string name="updated_at">Oppdatert</string>
+    <string name="attribution">Data levert av Barentswatch</string>
+    <string name="attribution_flaticon">Logo: Fazrian Zahrawani</string>
+    <string name="rute">Rute</string>
+    <string name="skjera">SKJER\'A</string>
+
+    <string name="mer">MER</string>
+    <string name="urlKortsynt">https://oao.no/torine/kortsynt.html</string>
+    <string name="urlLangsynt">https://oao.no/torine/langsynt.html</string>
+
+    <string name="back">Tilbake</string>
+</resources>
